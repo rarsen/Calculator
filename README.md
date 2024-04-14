@@ -14,8 +14,7 @@ This repository contains a simple C# console application that functions as a cal
   - [Combination](#combination)
   - [Permutation](#permutation)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
+- [Example of usage](Example-of-usage)
 
 ## Description
 
@@ -63,6 +62,6 @@ To use the calculator, follow these steps:
 
 
 ## Example of usage
-\
+
 <img width="786" alt="Снимок экрана 2024-04-14 в 16 09 13" src="https://github.com/rarsen/Calculator/assets/100610615/b80ae61e-5b94-454f-bf02-c3a7f022e1db">
 
