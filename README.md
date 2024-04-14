@@ -14,7 +14,6 @@ This repository contains a simple C# console application that functions as a cal
   - [Combination](#combination)
   - [Permutation](#permutation)
 - [Usage](#usage)
-- [Example of usage](example-of-usage)
 
 ## Description
 
