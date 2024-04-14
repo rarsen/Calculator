@@ -62,7 +62,7 @@ To use the calculator, follow these steps:
 4. Follow the on-screen instructions to select an operation and input the necessary values.
 
 
-##Example of usage
+## Example of usage
 \
 <img width="786" alt="Снимок экрана 2024-04-14 в 16 09 13" src="https://github.com/rarsen/Calculator/assets/100610615/b80ae61e-5b94-454f-bf02-c3a7f022e1db">
 
